@@ -18,3 +18,4 @@ This project is to run through the course and practise the code with Aliyun Tong
 ## References
 * [OpenAI Python Library](https://github.com/openai/openai-python)
 * [Aliyun OpenAI API](https://help.aliyun.com/zh/model-studio/developer-reference/compatibility-of-openai-with-dashscope)
+* [Aliyun Model Pricing](https://dashscope.console.aliyun.com/billing)
