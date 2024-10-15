@@ -15,3 +15,6 @@ This project is to run through the course and practise the code with Aliyun Tong
     OPENAI_API_URL="https://dashscope.aliyuncs.com/compatible-mode/v1"
     ```
 
+## References
+* [OpenAI Python Library](https://github.com/openai/openai-python)
+* [Aliyun OpenAI API](https://help.aliyun.com/zh/model-studio/developer-reference/compatibility-of-openai-with-dashscope)
